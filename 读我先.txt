@@ -1,0 +1,6 @@
+在Android Studio下进行Baidu地图API的配置:
+1.从http://lbsyun.baidu.com/sdk/download中下载开发包
+2.新建一个Android项目
+3.在app/libs内引入jar包：BaiduLBS_Android.jar、httpmime_X.X.X.jar、IndoorscapeAlbumPlugin.jar,并都右键Add as Dictionary
+4.在src/mains下新建目录jniLibs,把开发包里几个目录全部引入
+5.完毕
