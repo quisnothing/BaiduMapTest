@@ -20,6 +20,7 @@
             android:value="SO1qG54dUHWE5HKYQPMmBR0KxTS3Flct" />
     </application>
 
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
     <uses-permission android:name="android.permission.USE_FINGERPRINT" />
     <uses-permission android:name="android.permission.ACCOUNT_MANAGER" />
